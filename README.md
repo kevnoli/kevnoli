@@ -23,7 +23,6 @@ I'm Kevin and I'm a systems analyst/developer at [Unimed do Sudoeste](https://ww
 ![](https://img.shields.io/badge/Nginx-informational?style=for-the-badge&logo=nginx&logoColor=white)
 
 # Coding stats
-![Kevin's GitHub stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api?username=kevnoli&count_private=true&theme=github_dark&include_all_commits=true&hide_title=true)
+[![Kevin's GitHub stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api?username=kevnoli&count_private=true&theme=github_dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Kevin's GitHub stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api/wakatime?username=kevnoli&theme=github_dark)
+[![Kevin's Wakatime stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api/wakatime?username=kevnoli&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
