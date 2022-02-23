@@ -9,18 +9,19 @@ I'm Kevin and I'm a systems analyst/developer at [Unimed do Sudoeste](https://ww
 - ⚡ Fun fact: I have a 🐶 named Snow!
 
 # Tecnologies and tools
-![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Vue-informational?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![](https://img.shields.io/badge/Vuetify-informational?style=for-the-badge&logo=vuetify&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://shields.io/)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://shields.io/)
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://shields.io/)
+[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)](https://shields.io/)
 
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://shields.io/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://shields.io/)
 
-![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://shields.io/)
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://shields.io/)
 
-![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Nginx-informational?style=for-the-badge&logo=nginx&logoColor=white)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://shields.io/)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://shields.io/)
 
 # Coding stats
 [![Kevin's GitHub stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api?username=kevnoli&count_private=true&theme=github_dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
