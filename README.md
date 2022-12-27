@@ -16,6 +16,7 @@ I'm Kevin and I'm a junior developer.
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://shields.io/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://shields.io/)
+[![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://shields.io/)
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://shields.io/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://shields.io/)
@@ -26,4 +27,4 @@ I'm Kevin and I'm a junior developer.
 # Coding stats
 [![Kevin's GitHub stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api?username=kevnoli&count_private=true&theme=github_dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kevin's Wakatime stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api/wakatime?username=kevnoli&theme=github_dark&hide=CSV,Sublime%20Text%20Config,INI,Text)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's Wakatime stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api/wakatime?username=kevnoli&theme=github_dark&hide=CSV,Sublime%20Text%20Config,INI,Text&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
