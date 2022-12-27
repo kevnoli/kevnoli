@@ -1,6 +1,6 @@
 # About me
 ### Hi there 👋
-I'm Kevin and I'm a junior developer at [Atar B2B](https://atarb2b.com.br/).
+I'm Kevin and I'm a junior developer.
 
 - 🔭 I’m currently working on multiple Python projects
 - 🌱 I’m currently studying Vuejs
