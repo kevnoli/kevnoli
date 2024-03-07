@@ -25,6 +25,6 @@ I'm Kevin and I'm a junior developer.
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://shields.io/)
 
 # Coding stats
-[![Kevin's GitHub stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api?username=kevnoli&count_private=true&theme=github_dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats-6u8pjbhek-kevnoli.vercel.app/api?username=kevnoli&count_private=true&theme=github_dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kevin's Wakatime stats](https://github-readme-stats-89ldzfrbc-kevnoli.vercel.app/api/wakatime?username=kevnoli&theme=github_dark&hide=CSV,Sublime%20Text%20Config,INI,Text&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's Wakatime stats](https://github-readme-stats-6u8pjbhek-kevnoli.vercel.app/api/wakatime?username=kevnoli&theme=github_dark&hide=CSV,Sublime%20Text%20Config,INI,Text&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
