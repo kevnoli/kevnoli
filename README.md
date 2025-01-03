@@ -1,6 +1,6 @@
 # About me
 ### Hi there 👋
-I'm Kevin and I'm a junior developer.
+I'm Kevin and I'm a developer.
 
 - 🔭 I’m currently working on multiple Python projects
 - 🌱 I’m currently studying Vuejs
